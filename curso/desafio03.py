@@ -1,4 +1,4 @@
-num1 = input('Digite o primeiro número: ')
-num2 = input('Digite o segundo número: ')
-soma = int(num1)+int(num2)
-print('A soma entre os números ',num1,' e',num2,' é :', soma)
+num1 = int(input('Digite o primeiro número: '))
+num2 = int(input('Digite o segundo número: '))
+soma = num1 + num2
+print('A soma entre os números {} e {} é {}'.format(num1, num2, soma))
