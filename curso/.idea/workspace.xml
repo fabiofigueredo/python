@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56bc1101-b4ba-4066-949f-3ef698870621" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imc2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste/aula07a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste/aula07b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex/ex004.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,32 +26,34 @@
     <session id="1964259860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="properties" value="2" />
-          <entry key="py" value="7" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Properties" value="2" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1495" />
+          <entry key="py" value="3776" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1495" />
+          <entry key="Python" value="3776" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +63,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/desafio01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state>
+              <caret column="59" selection-start-column="59" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="101" selection-start-column="101" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -62,8 +81,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/desafio03.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="59" selection-start-column="59" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="77" selection-start-column="77" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="85" selection-start-column="85" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="73" selection-start-column="73" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="89" selection-start-column="89" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/desafio10.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -71,26 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/desafio04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imc2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state>
+              <caret column="110" selection-start-column="110" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -110,18 +165,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desafio01.py" />
-        <option value="$PROJECT_DIR$/desafio03.py" />
-        <option value="$PROJECT_DIR$/desafio04.py" />
         <option value="$PROJECT_DIR$/imc.py" />
         <option value="$PROJECT_DIR$/imc2.py" />
+        <option value="$PROJECT_DIR$/desafio01.py" />
+        <option value="$PROJECT_DIR$/desafio02.py" />
+        <option value="$PROJECT_DIR$/desafio03.py" />
+        <option value="$PROJECT_DIR$/desafio04.py" />
+        <option value="$PROJECT_DIR$/desafio05.py" />
+        <option value="$PROJECT_DIR$/desafio06.py" />
+        <option value="$PROJECT_DIR$/desafio07.py" />
+        <option value="$PROJECT_DIR$/desafio08.py" />
+        <option value="$PROJECT_DIR$/desafio09.py" />
+        <option value="$PROJECT_DIR$/desafio10.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="640" />
-    <option name="y" value="24" />
-    <option name="width" value="640" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -131,7 +192,20 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="curso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curso" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,8 +219,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.imc2">
-    <configuration name="desafio03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio10">
+    <configuration name="desafio06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +295,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,17 +326,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.desafio03" />
-      <item itemvalue="Python.desafio04" />
-      <item itemvalue="Python.imc" />
-      <item itemvalue="Python.imc2" />
+      <item itemvalue="Python.desafio06" />
+      <item itemvalue="Python.desafio07" />
+      <item itemvalue="Python.desafio08" />
+      <item itemvalue="Python.desafio09" />
+      <item itemvalue="Python.desafio10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.imc2" />
-        <item itemvalue="Python.imc" />
-        <item itemvalue="Python.desafio04" />
-        <item itemvalue="Python.desafio03" />
+        <item itemvalue="Python.desafio10" />
+        <item itemvalue="Python.desafio09" />
+        <item itemvalue="Python.desafio08" />
+        <item itemvalue="Python.desafio07" />
+        <item itemvalue="Python.desafio06" />
       </list>
     </recent_temporary>
   </component>
@@ -259,10 +356,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="24" width="640" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2484375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2484375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,6 +381,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/desafio04.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -292,38 +400,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafio01.py">
+    <entry file="file://$PROJECT_DIR$/imc2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="165">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imc2.py">
+    <entry file="file://$PROJECT_DIR$/desafio01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="101" selection-start-column="101" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="110" selection-start-column="110" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="77" selection-start-column="77" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="85" selection-start-column="85" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="73" selection-start-column="73" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="89" selection-start-column="89" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>

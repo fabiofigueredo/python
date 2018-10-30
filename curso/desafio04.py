@@ -1,3 +1,5 @@
+# Faça um programa receba um valor e print detalhes sobre o valor inserido e a que tipo primitivo ele pertence
+
 valor = input('Digite algo aqui e te direi o que ele é (na linguagem das máquinas, claro: ')
 print('O tipo primitivo desse valor é: ',type(valor))
 print('Este conteúdo é um título? ',valor.istitle())
