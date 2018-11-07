@@ -1,9 +1,9 @@
 # Faça um programa que leia um ângulo qualquer e exiba os valores do ceno, consceno e tangente
 
-from math import sin, cos, tan
+from math import sin, cos, tan, radians
 ang = float(input('Insira um ângulo qualquer: '))
-seno = sin(ang)
-cos = cos(ang)
-tang = tan(ang)
-print('Para o ângulo {} o seno é {}, o coseno é {} e a tangente é {}!'.format(ang, seno, cos, tang))
+seno = sin(radians(ang))
+cos = cos(radians(ang))
+tang = tan(radians(ang))
+print('Para o ângulo {} o seno é {:.2f}, o coseno é {:.2f} e a tangente é {:.2f}!'.format(ang, seno, cos, tang))
 
