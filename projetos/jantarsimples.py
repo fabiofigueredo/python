@@ -1,0 +1,6 @@
+conv = int(input('Digite a quantidade de convidados: '))
+print('A quantidade de arroz necessária é de {} gramas de arroz cru, que cozido totalizam {} gramas.'.format(conv * 50, conv * 150))
+print('A quantidade de feijão necessária é de {} gramas.'.format(conv * 60))
+print('A quantidade de carnes ou peixes é de {} gramas.'.format(conv * 200))
+print('A quantidade de salada necessária é de {} gramas.'.format(conv * 120))
+print('E para a sobremesa, serão necessárias {} gramas de sorvete.'.format(conv * 150))
