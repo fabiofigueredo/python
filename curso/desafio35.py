@@ -22,7 +22,7 @@ if (r1 - r2) < r3 and r3 < (r1 + r2):
     r3 = True
 
 # Calculo Final
-if (r1  and r2 and r3) == True:
+if (r1 and r2 and r3) == True:
     print('É possível formar um triângulo com essas medidas.')
 else:
     print('NÃO é possível formar um triângulo com essas medidas.')
