@@ -9,4 +9,4 @@ num = int(input('Tente descobrir o número que o computador pensou (de 0 a 9): '
 if num == gerado:
     print('Parabéns, você acertou!')
 else:
-    print('Não foi dessa vez, tente novamente!')
+    print('Não foi dessa vez, eu pensei no número {}. Tente novamente!'.format(gerado))
